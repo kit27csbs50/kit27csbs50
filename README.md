@@ -1,5 +1,4 @@
-# Hi I'm Sadhana M ⚡ A N I C O D E ⚡
-
+# Hi I'm Sadhana M
 
 *3rd Year Student | KIT - Kalaignar Karunanidhi Institute of Technology*  
 Communication | Problem Solving | Aspiring Software Developer
