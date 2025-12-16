@@ -1,4 +1,5 @@
-# Hi I'm Sadhana M
+# Hi I'm Sadhana M ⚡ A N I C O D E ⚡
+
 
 *3rd Year Student | KIT - Kalaignar Karunanidhi Institute of Technology*  
 Communication | Problem Solving | Aspiring Software Developer
@@ -15,7 +16,7 @@ Communication | Problem Solving | Aspiring Software Developer
 ##  Skills
 
 ### Technical Skills
-- Java  
+- Java  c
 - C  
 - Python  
 
