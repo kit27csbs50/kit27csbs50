@@ -5,27 +5,27 @@ Communication | Problem Solving | Aspiring Software Developer
 
 ---
 
-## 🎓 Education
+## Education
 - *10th Standard* – Shanthi Nikethan Higher Secondary School  
 - *12th Standard* – Shanthi Nikethan Higher Secondary School  
 - *Bachelor's Degree (3rd Year)* – KIT - Kalaignar Karunanidhi Institute of Technology  
 
 ---
 
-## 🛠 Skills
+##  Skills
 
-### 🧑‍💻 Technical Skills
+### Technical Skills
 - Java  
 - C  
 - Python  
 
-### 🤝 Soft Skills
+###  Soft Skills
 - Communication  
 - Problem Solving  
 
 ---
 
-## 🧩 Coding Profiles
+##  Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-orange)](https://leetcode.com/u/kit27csbssadhana/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-Visit-brown)](https://www.codechef.com/users/kit27csbs_50)  
@@ -33,12 +33,12 @@ Communication | Problem Solving | Aspiring Software Developer
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Sadhanas123)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sadhana-m-118547386)
 
 ---
 
-⭐ Thanks for visiting my profile!  
-📚 Learning daily — growing step by step.
+ Thanks for visiting my profile!  
+ Learning daily — growing step by step.
